@@ -49,4 +49,10 @@ table {
   margin: 0 auto;
   padding: 0 20px;
 }
-
+.header {
+  height: 100vh;
+  background: url("../image/bg.png") no-repeat center/cover;
+}
+.nav__item img{
+  width: 20px;
+}
