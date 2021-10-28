@@ -44,11 +44,6 @@ table {
   border-spacing: 0;
 }
 
-.wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
 .header {
   height: 100vh;
   background: url("../image/bg.png") no-repeat center/cover;
